@@ -1,5 +1,4 @@
 # brick-breaker
-Mini Project Mini Project
 <h1 align="center">Hi 👋, I'm Chandirasegaran</h1>
 <h3 align="center">From Pondicherry University</h3>
 
